@@ -1,3 +1,6 @@
 h1 {
     color: rgba(76, 143, 9, 0.79);
 }
+image {
+    width:fit-content;
+}
